@@ -1,20 +1,14 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import CardList, {Orientation} from "./component/CardList";
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+    return (
+        <CardList
+            orientation={Orientation.Landscape}
+            data={[
+                {
+                    source: "https://bobbyhadz.com/images/blog/typescript-binding-element-implicitly-has-an-any-type/banner.webp",
+                    text: "123"
+                }
+            ]}/>
+    );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
