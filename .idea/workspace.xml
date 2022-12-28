@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81a7e048-9797-4ccc-80e2-e53e3d8cfc2f" name="Changes" comment="add react and react-native">
-      <change beforePath="$PROJECT_DIR$/yeallet-react/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="81a7e048-9797-4ccc-80e2-e53e3d8cfc2f" name="Changes" comment="add react and react-native" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672218043587</updated>
-      <workItem from="1672218044856" duration="1747000" />
+      <workItem from="1672218044856" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="clear all files.">
       <created>1672218084980</created>
@@ -77,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672219715222</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add react and react-native">
+      <created>1672220128425</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672220128425</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
